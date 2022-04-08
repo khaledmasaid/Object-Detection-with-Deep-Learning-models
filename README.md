@@ -7,5 +7,6 @@
 # Model output
 If I input the following picture into the YOLO model it must detect the pedestrians, bus, traffic lights and cars in background.
 <img width="527" alt="image" src="https://user-images.githubusercontent.com/103283892/162532856-dc54fe8c-b4cb-4b2d-9db3-dea9071c5140.png">
+
 As expected, the model was able to accurately detect multiple objects in the sample image.
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/103283892/162533290-4a3befa1-b2f4-4cdd-9705-a4aa45976bb2.png">
